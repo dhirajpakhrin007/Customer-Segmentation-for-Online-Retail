@@ -27,7 +27,7 @@ Understanding customers by using KMeans clustering to classify online retail cus
 - The transformed datasets remain within MongoDB for efficient retrieval.
 
 
-### Data Modeling
+# Data Modeling
 - Model Used: K-Means Clustering
 - Feature Engineering
    - 3 features were extracted from the customer's data
